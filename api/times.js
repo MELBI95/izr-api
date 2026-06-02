@@ -1,4 +1,4 @@
-const DB = require('../data/db');
+const DB = require('./db');
 
 // Dekodiert die delta-kodierten Monatsdaten
 function decode(rows) {
