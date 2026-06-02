@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "izr-gebetszeiten-api",
+  "functions": {
+    "api/times.js": {
+      "memory": 256,
+      "maxDuration": 5
+    }
+  }
+}
